@@ -1,0 +1,1002 @@
+[
+  {
+    "data_hora": "2025-04-02T10:14:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 1.",
+    "servicoId": 16,
+    "clienteId": 18,
+    "funcionarioId": 11,
+    "inicio_atendimento": "2025-04-02T10:37:00.000Z",
+    "fim_atendimento": "2025-04-02T12:52:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-05T08:58:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 2.",
+    "servicoId": 2,
+    "clienteId": 46,
+    "funcionarioId": 19,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-18T16:11:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 3.",
+    "servicoId": 9,
+    "clienteId": 27,
+    "funcionarioId": 1,
+    "inicio_atendimento": "2025-05-18T16:26:00.000Z",
+    "fim_atendimento": "2025-05-18T18:06:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-02T02:11:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 4.",
+    "servicoId": 1,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": "2025-05-02T02:26:00.000Z",
+    "fim_atendimento": "2025-05-02T03:26:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-20T03:13:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 5.",
+    "servicoId": 19,
+    "clienteId": 16,
+    "funcionarioId": 18,
+    "inicio_atendimento": "2025-04-20T03:36:00.000Z",
+    "fim_atendimento": "2025-04-20T05:06:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-12T01:32:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 6.",
+    "servicoId": 16,
+    "clienteId": 32,
+    "funcionarioId": 9,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-10T23:59:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 7.",
+    "servicoId": 4,
+    "clienteId": 39,
+    "funcionarioId": 13,
+    "inicio_atendimento": "2025-05-11T00:22:00.000Z",
+    "fim_atendimento": "2025-05-11T02:22:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-23T04:22:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 8.",
+    "servicoId": 19,
+    "clienteId": 27,
+    "funcionarioId": 10,
+    "inicio_atendimento": "2025-04-23T04:44:00.000Z",
+    "fim_atendimento": "2025-04-23T06:14:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-26T21:40:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 9.",
+    "servicoId": 4,
+    "clienteId": 25,
+    "funcionarioId": 11,
+    "inicio_atendimento": "2025-04-26T21:56:00.000Z",
+    "fim_atendimento": "2025-04-26T23:56:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-18T06:40:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 10.",
+    "servicoId": 17,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": "2025-04-18T06:55:00.000Z",
+    "fim_atendimento": "2025-04-18T07:50:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-28T09:04:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 11.",
+    "servicoId": 16,
+    "clienteId": 28,
+    "funcionarioId": 12,
+    "inicio_atendimento": "2025-05-28T09:24:00.000Z",
+    "fim_atendimento": "2025-05-28T11:39:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-16T12:06:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 12.",
+    "servicoId": 13,
+    "clienteId": 3,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-14T02:59:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 13.",
+    "servicoId": 15,
+    "clienteId": 29,
+    "funcionarioId": 14,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-01T09:56:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 14.",
+    "servicoId": 3,
+    "clienteId": 44,
+    "funcionarioId": 19,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-13T04:27:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 15.",
+    "servicoId": 12,
+    "clienteId": 38,
+    "funcionarioId": 10,
+    "inicio_atendimento": "2025-05-13T04:47:00.000Z",
+    "fim_atendimento": "2025-05-13T08:47:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-04T18:04:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 16.",
+    "servicoId": 1,
+    "clienteId": 11,
+    "funcionarioId": 16,
+    "inicio_atendimento": "2025-05-04T18:21:00.000Z",
+    "fim_atendimento": "2025-05-04T19:21:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-14T03:34:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 17.",
+    "servicoId": 15,
+    "clienteId": 2,
+    "funcionarioId": 7,
+    "inicio_atendimento": "2025-04-14T03:54:00.000Z",
+    "fim_atendimento": "2025-04-14T04:54:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-17T00:54:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 18.",
+    "servicoId": 10,
+    "clienteId": 12,
+    "funcionarioId": 8,
+    "inicio_atendimento": "2025-05-17T01:15:00.000Z",
+    "fim_atendimento": "2025-05-17T03:45:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-30T10:04:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 19.",
+    "servicoId": 12,
+    "clienteId": 29,
+    "funcionarioId": 1,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-09T03:04:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 20.",
+    "servicoId": 17,
+    "clienteId": 13,
+    "funcionarioId": 17,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-20T17:15:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 21.",
+    "servicoId": 9,
+    "clienteId": 33,
+    "funcionarioId": 2,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-27T08:00:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 22.",
+    "servicoId": 20,
+    "clienteId": 38,
+    "funcionarioId": 18,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-19T06:57:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 23.",
+    "servicoId": 3,
+    "clienteId": 46,
+    "funcionarioId": 13,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-26T21:40:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 24.",
+    "servicoId": 19,
+    "clienteId": 39,
+    "funcionarioId": 10,
+    "inicio_atendimento": "2025-04-26T21:55:00.000Z",
+    "fim_atendimento": "2025-04-26T23:25:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 25.",
+    "servicoId": 11,
+    "clienteId": 1,
+    "funcionarioId": 12,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-05T01:31:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 26.",
+    "servicoId": 10,
+    "clienteId": 34,
+    "funcionarioId": 19,
+    "inicio_atendimento": "2025-04-05T01:50:00.000Z",
+    "fim_atendimento": "2025-04-05T04:20:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-12T01:57:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 27.",
+    "servicoId": 2,
+    "clienteId": 41,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-11T09:12:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 28.",
+    "servicoId": 12,
+    "clienteId": 17,
+    "funcionarioId": 6,
+    "inicio_atendimento": "2025-04-11T09:27:00.000Z",
+    "fim_atendimento": "2025-04-11T13:27:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-06T15:24:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 29.",
+    "servicoId": 13,
+    "clienteId": 20,
+    "funcionarioId": 5,
+    "inicio_atendimento": "2025-04-06T15:47:00.000Z",
+    "fim_atendimento": "2025-04-06T16:17:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 30.",
+    "servicoId": 1,
+    "clienteId": 36,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 31.",
+    "servicoId": 19,
+    "clienteId": 40,
+    "funcionarioId": 14,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 32.",
+    "servicoId": 10,
+    "clienteId": 3,
+    "funcionarioId": 1,
+    "inicio_atendimento": "2025-05-09T04:09:00.000Z",
+    "fim_atendimento": "2025-05-09T06:39:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-03T16:03:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 33.",
+    "servicoId": 15,
+    "clienteId": 44,
+    "funcionarioId": 7,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-03T17:54:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 34.",
+    "servicoId": 17,
+    "clienteId": 25,
+    "funcionarioId": 8,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-05T01:31:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 35.",
+    "servicoId": 1,
+    "clienteId": 19,
+    "funcionarioId": 16,
+    "inicio_atendimento": "2025-04-05T01:46:00.000Z",
+    "fim_atendimento": "2025-04-05T02:46:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-12T01:57:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 36.",
+    "servicoId": 13,
+    "clienteId": 30,
+    "funcionarioId": 17,
+    "inicio_atendimento": "2025-06-12T02:20:00.000Z",
+    "fim_atendimento": "2025-06-12T02:50:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-25T09:12:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 37.",
+    "servicoId": 18,
+    "clienteId": 35,
+    "funcionarioId": 12,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T15:24:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 38.",
+    "servicoId": 20,
+    "clienteId": 47,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-06T01:30:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 39.",
+    "servicoId": 16,
+    "clienteId": 18,
+    "funcionarioId": 11,
+    "inicio_atendimento": "2025-05-06T01:47:00.000Z",
+    "fim_atendimento": "2025-05-06T04:02:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 40.",
+    "servicoId": 2,
+    "clienteId": 46,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 41.",
+    "servicoId": 9,
+    "clienteId": 27,
+    "funcionarioId": 1,
+    "inicio_atendimento": "2025-05-09T04:13:00.000Z",
+    "fim_atendimento": "2025-05-09T05:53:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 42.",
+    "servicoId": 1,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": "2025-06-03T16:18:00.000Z",
+    "fim_atendimento": "2025-06-03T17:18:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 43.",
+    "servicoId": 19,
+    "clienteId": 16,
+    "funcionarioId": 18,
+    "inicio_atendimento": "2025-04-05T18:09:00.000Z",
+    "fim_atendimento": "2025-04-05T19:39:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 44.",
+    "servicoId": 16,
+    "clienteId": 32,
+    "funcionarioId": 9,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 45.",
+    "servicoId": 4,
+    "clienteId": 39,
+    "funcionarioId": 13,
+    "inicio_atendimento": "2025-05-25T02:18:00.000Z",
+    "fim_atendimento": "2025-05-25T04:18:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 46.",
+    "servicoId": 19,
+    "clienteId": 27,
+    "funcionarioId": 10,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 47.",
+    "servicoId": 4,
+    "clienteId": 25,
+    "funcionarioId": 11,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 48.",
+    "servicoId": 17,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 49.",
+    "servicoId": 16,
+    "clienteId": 28,
+    "funcionarioId": 12,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 50.",
+    "servicoId": 13,
+    "clienteId": 3,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 51.",
+    "servicoId": 15,
+    "clienteId": 29,
+    "funcionarioId": 14,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 52.",
+    "servicoId": 3,
+    "clienteId": 44,
+    "funcionarioId": 19,
+    "inicio_atendimento": "2025-04-05T18:13:00.000Z",
+    "fim_atendimento": "2025-04-05T18:58:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 53.",
+    "servicoId": 11,
+    "clienteId": 38,
+    "funcionarioId": 10,
+    "inicio_atendimento": "2025-06-12T01:46:00.000Z",
+    "fim_atendimento": "2025-06-12T03:46:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 54.",
+    "servicoId": 10,
+    "clienteId": 34,
+    "funcionarioId": 19,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 55.",
+    "servicoId": 2,
+    "clienteId": 41,
+    "funcionarioId": 6,
+    "inicio_atendimento": "2025-04-18T09:30:00.000Z",
+    "fim_atendimento": "2025-04-18T11:00:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 56.",
+    "servicoId": 12,
+    "clienteId": 17,
+    "funcionarioId": 5,
+    "inicio_atendimento": "2025-05-06T15:42:00.000Z",
+    "fim_atendimento": "2025-05-06T19:42:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 57.",
+    "servicoId": 13,
+    "clienteId": 20,
+    "funcionarioId": 15,
+    "inicio_atendimento": "2025-05-19T01:48:00.000Z",
+    "fim_atendimento": "2025-05-19T02:18:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 58.",
+    "servicoId": 1,
+    "clienteId": 36,
+    "funcionarioId": 14,
+    "inicio_atendimento": "2025-05-15T09:56:00.000Z",
+    "fim_atendimento": "2025-05-15T10:56:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 59.",
+    "servicoId": 19,
+    "clienteId": 40,
+    "funcionarioId": 1,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 60.",
+    "servicoId": 10,
+    "clienteId": 3,
+    "funcionarioId": 7,
+    "inicio_atendimento": "2025-06-03T16:19:00.000Z",
+    "fim_atendimento": "2025-06-03T18:49:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 61.",
+    "servicoId": 15,
+    "clienteId": 44,
+    "funcionarioId": 8,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 62.",
+    "servicoId": 17,
+    "clienteId": 25,
+    "funcionarioId": 16,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 63.",
+    "servicoId": 1,
+    "clienteId": 19,
+    "funcionarioId": 17,
+    "inicio_atendimento": "2025-05-25T02:18:00.000Z",
+    "fim_atendimento": "2025-05-25T03:18:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 64.",
+    "servicoId": 13,
+    "clienteId": 30,
+    "funcionarioId": 12,
+    "inicio_atendimento": "2025-04-18T09:27:00.000Z",
+    "fim_atendimento": "2025-04-18T09:57:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 65.",
+    "servicoId": 18,
+    "clienteId": 35,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 66.",
+    "servicoId": 20,
+    "clienteId": 47,
+    "funcionarioId": 11,
+    "inicio_atendimento": "2025-05-19T01:51:00.000Z",
+    "fim_atendimento": "2025-05-19T02:31:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 67.",
+    "servicoId": 16,
+    "clienteId": 18,
+    "funcionarioId": 19,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 68.",
+    "servicoId": 2,
+    "clienteId": 46,
+    "funcionarioId": 13,
+    "inicio_atendimento": "2025-05-09T04:13:00.000Z",
+    "fim_atendimento": "2025-05-09T05:43:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 69.",
+    "servicoId": 9,
+    "clienteId": 27,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 70.",
+    "servicoId": 1,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": "2025-04-05T18:13:00.000Z",
+    "fim_atendimento": "2025-04-05T19:13:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 71.",
+    "servicoId": 19,
+    "clienteId": 16,
+    "funcionarioId": 18,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 72.",
+    "servicoId": 16,
+    "clienteId": 32,
+    "funcionarioId": 9,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 73.",
+    "servicoId": 4,
+    "clienteId": 39,
+    "funcionarioId": 13,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 74.",
+    "servicoId": 19,
+    "clienteId": 27,
+    "funcionarioId": 10,
+    "inicio_atendimento": "2025-05-06T15:47:00.000Z",
+    "fim_atendimento": "2025-05-06T17:17:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 75.",
+    "servicoId": 4,
+    "clienteId": 25,
+    "funcionarioId": 11,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 76.",
+    "servicoId": 17,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 77.",
+    "servicoId": 16,
+    "clienteId": 28,
+    "funcionarioId": 12,
+    "inicio_atendimento": "2025-05-09T04:09:00.000Z",
+    "fim_atendimento": "2025-05-09T06:24:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 78.",
+    "servicoId": 13,
+    "clienteId": 3,
+    "funcionarioId": 15,
+    "inicio_atendimento": "2025-06-03T16:21:00.000Z",
+    "fim_atendimento": "2025-06-03T16:51:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 79.",
+    "servicoId": 15,
+    "clienteId": 29,
+    "funcionarioId": 14,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 80.",
+    "servicoId": 3,
+    "clienteId": 44,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 81.",
+    "servicoId": 11,
+    "clienteId": 38,
+    "funcionarioId": 10,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 82.",
+    "servicoId": 10,
+    "clienteId": 34,
+    "funcionarioId": 19,
+    "inicio_atendimento": "2025-04-18T09:32:00.000Z",
+    "fim_atendimento": "2025-04-18T12:02:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 83.",
+    "servicoId": 2,
+    "clienteId": 41,
+    "funcionarioId": 6,
+    "inicio_atendimento": "2025-05-06T15:48:00.000Z",
+    "fim_atendimento": "2025-05-06T17:18:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 84.",
+    "servicoId": 12,
+    "clienteId": 17,
+    "funcionarioId": 5,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 85.",
+    "servicoId": 13,
+    "clienteId": 20,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 86.",
+    "servicoId": 1,
+    "clienteId": 36,
+    "funcionarioId": 14,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 87.",
+    "servicoId": 19,
+    "clienteId": 40,
+    "funcionarioId": 1,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 88.",
+    "servicoId": 10,
+    "clienteId": 3,
+    "funcionarioId": 7,
+    "inicio_atendimento": "2025-04-05T18:09:00.000Z",
+    "fim_atendimento": "2025-04-05T20:39:00.000Z"
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 89.",
+    "servicoId": 15,
+    "clienteId": 44,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 90.",
+    "servicoId": 17,
+    "clienteId": 25,
+    "funcionarioId": 8,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 91.",
+    "servicoId": 1,
+    "clienteId": 19,
+    "funcionarioId": 16,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-06T15:24:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 92.",
+    "servicoId": 13,
+    "clienteId": 30,
+    "funcionarioId": null,
+    "inicio_atendimento": "2025-05-06T15:46:00.000Z",
+    "fim_atendimento": "2025-05-06T16:16:00.000Z"
+  },
+  {
+    "data_hora": "2025-05-19T01:30:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 93.",
+    "servicoId": 18,
+    "clienteId": 35,
+    "funcionarioId": 12,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-15T09:40:00.000Z",
+    "status": "Criada",
+    "observacoes": "Detalhes da ordem de serviço 94.",
+    "servicoId": 20,
+    "clienteId": 47,
+    "funcionarioId": 15,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-09T03:50:00.000Z",
+    "status": "Cancelada",
+    "observacoes": "Detalhes da ordem de serviço 95.",
+    "servicoId": 16,
+    "clienteId": 18,
+    "funcionarioId": null,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-03T16:03:00.000Z",
+    "status": "Finalizada",
+    "observacoes": "Detalhes da ordem de serviço 96.",
+    "servicoId": 2,
+    "clienteId": 46,
+    "funcionarioId": 19,
+    "inicio_atendimento": "2025-06-03T16:21:00.000Z",
+    "fim_atendimento": "2025-06-03T17:51:00.000Z"
+  },
+  {
+    "data_hora": "2025-04-05T17:54:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 97.",
+    "servicoId": 9,
+    "clienteId": 27,
+    "funcionarioId": 1,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-06-12T01:31:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 98.",
+    "servicoId": 1,
+    "clienteId": 45,
+    "funcionarioId": 2,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-05-25T01:57:00.000Z",
+    "status": "Aguardando Atendimento",
+    "observacoes": "Detalhes da ordem de serviço 99.",
+    "servicoId": 19,
+    "clienteId": 16,
+    "funcionarioId": 18,
+    "inicio_atendimento": null,
+    "fim_atendimento": null
+  },
+  {
+    "data_hora": "2025-04-18T09:12:00.000Z",
+    "status": "Em Andamento",
+    "observacoes": "Detalhes da ordem de serviço 100.",
+    "servicoId": 16,
+    "clienteId": 32,
+    "funcionarioId": null,
+    "inicio_atendimento": "2025-04-18T09:33:00.000Z",
+    "fim_atendimento": "2025-04-18T11:48:00.000Z"
+  }
+]

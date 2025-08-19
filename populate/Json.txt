@@ -1,0 +1,1151 @@
+[
+  {
+    "email": "tecnico@empresa.com",
+    "cpf": "12345678901",
+    "nome": "Lucas",
+    "telefone": "42991349854",
+    "endereco": "Rua Florestópolis , 302",
+    "tipo": "tecnico",
+    "senha": "teste"
+  },
+  {
+    "email": "ana.silva@empresa.com",
+    "cpf": "11223344556",
+    "nome": "Ana Silva",
+    "telefone": "42988112233",
+    "endereco": "Rua Dr. Colares, 123",
+    "tipo": "tecnico",
+    "senha": "senha1"
+  },
+  {
+    "email": "bruno.costa@empresa.com",
+    "cpf": "22334455667",
+    "nome": "Bruno Costa",
+    "telefone": "42999223344",
+    "endereco": "Avenida Monteiro Lobato, 456",
+    "tipo": "tecnico",
+    "senha": "senha2"
+  },
+  {
+    "email": "carla.souza@empresa.com",
+    "cpf": "33445566778",
+    "nome": "Carla Souza",
+    "telefone": "42987334455",
+    "endereco": "Rua Balduíno Taques, 789",
+    "tipo": "tecnico",
+    "senha": "senha3"
+  },
+  {
+    "email": "daniel.pereira@empresa.com",
+    "cpf": "44556677889",
+    "nome": "Daniel Pereira",
+    "telefone": "42991445566",
+    "endereco": "Rua Santos Dumont, 101",
+    "tipo": "tecnico",
+    "senha": "senha4"
+  },
+  {
+    "email": "eliane.rocha@empresa.com",
+    "cpf": "55667788990",
+    "nome": "Eliane Rocha",
+    "telefone": "42988556677",
+    "endereco": "Rua Benjamim Constant, 202",
+    "tipo": "tecnico",
+    "senha": "senha5"
+  },
+  {
+    "email": "fernando.gomes@empresa.com",
+    "cpf": "66778899001",
+    "nome": "Fernando Gomes",
+    "telefone": "42999667788",
+    "endereco": "Rua XV de Novembro, 303",
+    "tipo": "tecnico",
+    "senha": "senha6"
+  },
+  {
+    "email": "giselle.martins@empresa.com",
+    "cpf": "77889900112",
+    "nome": "Giselle Martins",
+    "telefone": "42987778899",
+    "endereco": "Rua Comendador Miró, 404",
+    "tipo": "tecnico",
+    "senha": "senha7"
+  },
+  {
+    "email": "henrique.lima@empresa.com",
+    "cpf": "88990011223",
+    "nome": "Henrique Lima",
+    "telefone": "42991889900",
+    "endereco": "Rua Augusto Ribas, 505",
+    "tipo": "tecnico",
+    "senha": "senha8"
+  },
+  {
+    "email": "ingrid.nunes@empresa.com",
+    "cpf": "99001122334",
+    "nome": "Ingrid Nunes",
+    "telefone": "42988990011",
+    "endereco": "Rua Doutor Paula Xavier, 606",
+    "tipo": "tecnico",
+    "senha": "senha9"
+  },
+  {
+    "email": "joao.alves@empresa.com",
+    "cpf": "00112233445",
+    "nome": "João Alves",
+    "telefone": "42999001122",
+    "endereco": "Rua Francisco Ribas, 707",
+    "tipo": "tecnico",
+    "senha": "senha10"
+  },
+  {
+    "email": "karina.vieira@empresa.com",
+    "cpf": "10112233445",
+    "nome": "Karina Vieira",
+    "telefone": "42988112233",
+    "endereco": "Rua do Rosário, 808",
+    "tipo": "operador",
+    "senha": "op1"
+  },
+  {
+    "email": "leandro.fernandes@empresa.com",
+    "cpf": "20223344556",
+    "nome": "Leandro Fernandes",
+    "telefone": "42999223344",
+    "endereco": "Rua Coronel Dulcídio, 909",
+    "tipo": "operador",
+    "senha": "op2"
+  },
+  {
+    "email": "mariana.borges@empresa.com",
+    "cpf": "30334455667",
+    "nome": "Mariana Borges",
+    "telefone": "42987334455",
+    "endereco": "Rua Bonifácio Vilela, 1010",
+    "tipo": "operador",
+    "senha": "op3"
+  },
+  {
+    "email": "nicolas.campos@empresa.com",
+    "cpf": "40445566778",
+    "nome": "Nicolas Campos",
+    "telefone": "42991445566",
+    "endereco": "Rua General Carneiro, 1111",
+    "tipo": "operador",
+    "senha": "op4"
+  },
+  {
+    "email": "olivia.dias@empresa.com",
+    "cpf": "50556677889",
+    "nome": "Olívia Dias",
+    "telefone": "42988556677",
+    "endereco": "Rua Ermelino de Leão, 1212",
+    "tipo": "operador",
+    "senha": "op5"
+  },
+  {
+    "email": "paulo.eduardo@empresa.com",
+    "cpf": "60667788990",
+    "nome": "Paulo Eduardo",
+    "telefone": "42999667788",
+    "endereco": "Rua Dr. Paula Xavier, 1313",
+    "tipo": "operador",
+    "senha": "op6"
+  },
+  {
+    "email": "quirino.almeida@empresa.com",
+    "cpf": "70778899001",
+    "nome": "Quirino Almeida",
+    "telefone": "42987778899",
+    "endereco": "Rua Comendador Miró, 1414",
+    "tipo": "operador",
+    "senha": "op7"
+  },
+  {
+    "email": "rafaela.goncalves@empresa.com",
+    "cpf": "80889900112",
+    "nome": "Rafaela Gonçalves",
+    "telefone": "42991889900",
+    "endereco": "Rua Barão do Cerro Azul, 1515",
+    "tipo": "operador",
+    "senha": "op8"
+  },
+  {
+    "email": "sergio.henrique@empresa.com",
+    "cpf": "90990011223",
+    "nome": "Sérgio Henrique",
+    "telefone": "42988990011",
+    "endereco": "Rua Santana, 1616",
+    "tipo": "operador",
+    "senha": "op9"
+  },
+  {
+    "email": "tatiane.silveira@empresa.com",
+    "cpf": "00011223344",
+    "nome": "Tatiane Silveira",
+    "telefone": "42999001122",
+    "endereco": "Rua Visconde de Mauá, 1717",
+    "tipo": "operador",
+    "senha": "op10"
+  },
+  {
+    "email": "usuario01@empresa.com",
+    "cpf": "11122233344",
+    "nome": "João Pedro Santos",
+    "telefone": "42991234567",
+    "endereco": "Rua Doutor João Cândido, 100",
+    "senha": "user1"
+  },
+  {
+    "email": "usuario02@empresa.com",
+    "cpf": "22233344455",
+    "nome": "Maria Eduarda Lima",
+    "telefone": "42988765432",
+    "endereco": "Avenida Vicente Machado, 250",
+    "senha": "user2"
+  },
+  {
+    "email": "usuario03@empresa.com",
+    "cpf": "33344455566",
+    "nome": "Carlos Alberto Oliveira",
+    "telefone": "42999112233",
+    "endereco": "Rua General Osório, 300",
+    "senha": "user3"
+  },
+  {
+    "email": "usuario04@empresa.com",
+    "cpf": "44455566677",
+    "nome": "Patrícia Cristina Faria",
+    "telefone": "42987445566",
+    "endereco": "Rua Capanema, 420",
+    "senha": "user4"
+  },
+  {
+    "email": "usuario05@empresa.com",
+    "cpf": "55566677788",
+    "nome": "Roberto José Almeida",
+    "telefone": "42991556677",
+    "endereco": "Rua Francisco Ribas, 510",
+    "senha": "user5"
+  },
+  {
+    "email": "usuario06@empresa.com",
+    "cpf": "66677788899",
+    "nome": "Carolina Pires Nunes",
+    "telefone": "42988667788",
+    "endereco": "Avenida João Manoel dos Santos, 600",
+    "senha": "user6"
+  },
+  {
+    "email": "usuario07@empresa.com",
+    "cpf": "77788899900",
+    "nome": "Gustavo Mendes Rocha",
+    "telefone": "42999778899",
+    "endereco": "Rua Sete de Setembro, 770",
+    "senha": "user7"
+  },
+  {
+    "email": "usuario08@empresa.com",
+    "cpf": "88899900011",
+    "nome": "Isabela Regina Dutra",
+    "telefone": "42987889900",
+    "endereco": "Rua Doutor Afonso Câmargo, 800",
+    "senha": "user8"
+  },
+  {
+    "email": "usuario09@empresa.com",
+    "cpf": "99900011122",
+    "nome": "Felipe Augusto Costa",
+    "telefone": "42991990011",
+    "endereco": "Rua Carlos de Carvalho, 900",
+    "senha": "user9"
+  },
+  {
+    "email": "usuario10@empresa.com",
+    "cpf": "00011122233",
+    "nome": "Beatriz Helena Dias",
+    "telefone": "42988001122",
+    "endereco": "Rua do Patrocínio, 1050",
+    "senha": "user10"
+  },
+  {
+    "email": "usuario11@empresa.com",
+    "cpf": "10112131415",
+    "nome": "Ricardo Pereira Souza",
+    "telefone": "42999123456",
+    "endereco": "Rua Prudente de Morais, 110",
+    "senha": "user11"
+  },
+  {
+    "email": "usuario12@empresa.com",
+    "cpf": "20223242526",
+    "nome": "Larissa Gomes Silva",
+    "telefone": "42987654321",
+    "endereco": "Avenida Presidente Vargas, 220",
+    "senha": "user12"
+  },
+  {
+    "email": "usuario13@empresa.com",
+    "cpf": "30334353637",
+    "nome": "Vinícius Henrique Campos",
+    "telefone": "42991112233",
+    "endereco": "Rua Benjamin Constant, 330",
+    "senha": "user13"
+  },
+  {
+    "email": "usuario14@empresa.com",
+    "cpf": "40445464748",
+    "nome": "Julia Fernanda Barbosa",
+    "telefone": "42988445566",
+    "endereco": "Rua Doutor Colares, 440",
+    "senha": "user14"
+  },
+  {
+    "email": "usuario15@empresa.com",
+    "cpf": "50556575859",
+    "nome": "Eduardo Gabriel Rocha",
+    "telefone": "42999556677",
+    "endereco": "Rua XV de Novembro, 550",
+    "senha": "user15"
+  },
+  {
+    "email": "usuario16@empresa.com",
+    "cpf": "60667686960",
+    "nome": "Manuela Antunes Mendes",
+    "telefone": "42987667788",
+    "endereco": "Rua Comendador Miró, 660",
+    "senha": "user16"
+  },
+  {
+    "email": "usuario17@empresa.com",
+    "cpf": "70778797071",
+    "nome": "Pedro Miguel Dias",
+    "telefone": "42991778899",
+    "endereco": "Rua Sete de Setembro, 777",
+    "senha": "user17"
+  },
+  {
+    "email": "usuario18@empresa.com",
+    "cpf": "80889808182",
+    "nome": "Laura Cristina Costa",
+    "telefone": "42988889900",
+    "endereco": "Rua Barão do Cerro Azul, 888",
+    "senha": "user18"
+  },
+  {
+    "email": "usuario19@empresa.com",
+    "cpf": "90990919293",
+    "nome": "Rafael Nunes Oliveira",
+    "telefone": "42999990011",
+    "endereco": "Rua Doutor Paula Xavier, 999",
+    "senha": "user19"
+  },
+  {
+    "email": "usuario20@empresa.com",
+    "cpf": "01011121314",
+    "nome": "Sofia Gabriela Silva",
+    "telefone": "42987001122",
+    "endereco": "Avenida Monteiro Lobato, 1001",
+    "senha": "user20"
+  },
+  {
+    "email": "usuario21@empresa.com",
+    "cpf": "11122233345",
+    "nome": "Guilherme Sampaio",
+    "telefone": "42991234568",
+    "endereco": "Rua Santos Dumont, 120",
+    "senha": "user21"
+  },
+  {
+    "email": "usuario22@empresa.com",
+    "cpf": "22233344456",
+    "nome": "Alice Pereira",
+    "telefone": "42988765433",
+    "endereco": "Rua Bonifácio Vilela, 230",
+    "senha": "user22"
+  },
+  {
+    "email": "usuario23@empresa.com",
+    "cpf": "33344455567",
+    "nome": "Diego Fernandes",
+    "telefone": "42999112234",
+    "endereco": "Rua General Carneiro, 340",
+    "senha": "user23"
+  },
+  {
+    "email": "usuario24@empresa.com",
+    "cpf": "44455566678",
+    "nome": "Helena Barbosa",
+    "telefone": "42987445567",
+    "endereco": "Rua Visconde de Mauá, 450",
+    "senha": "user24"
+  },
+  {
+    "email": "usuario25@empresa.com",
+    "cpf": "55566677789",
+    "nome": "Arthur Campos",
+    "telefone": "42991556678",
+    "endereco": "Rua Ermelino de Leão, 560",
+    "senha": "user25"
+  },
+  {
+    "email": "usuario26@empresa.com",
+    "cpf": "66677788890",
+    "nome": "Luiza Antunes",
+    "telefone": "42988667789",
+    "endereco": "Rua Santana, 670",
+    "senha": "user26"
+  },
+  {
+    "email": "usuario27@empresa.com",
+    "cpf": "77788899901",
+    "nome": "João Vitor Gomes",
+    "telefone": "42999778890",
+    "endereco": "Rua Francisco Ribas, 780",
+    "senha": "user27"
+  },
+  {
+    "email": "usuario28@empresa.com",
+    "cpf": "88899900012",
+    "nome": "Gabriela Pires",
+    "telefone": "42987889901",
+    "endereco": "Rua Augusto Ribas, 890",
+    "senha": "user28"
+  },
+  {
+    "email": "usuario29@empresa.com",
+    "cpf": "99900011123",
+    "nome": "Enzo Gabriel",
+    "telefone": "42991990012",
+    "endereco": "Rua Doutor Paula Xavier, 900",
+    "senha": "user29"
+  },
+  {
+    "email": "usuario30@empresa.com",
+    "cpf": "00011122234",
+    "nome": "Valentina Rocha",
+    "telefone": "42988001123",
+    "endereco": "Avenida Presidente Vargas, 1000",
+    "senha": "user30"
+  },
+  {
+    "email": "usuario31@empresa.com",
+    "cpf": "11122233346",
+    "nome": "Murilo Cardoso",
+    "telefone": "42991234569",
+    "endereco": "Rua Prudente de Morais, 130",
+    "senha": "user31"
+  },
+  {
+    "email": "usuario32@empresa.com",
+    "cpf": "22233344457",
+    "nome": "Isadora Martins",
+    "telefone": "42988765434",
+    "endereco": "Rua Cel. Dulcídio, 240",
+    "senha": "user32"
+  },
+  {
+    "email": "usuario33@empresa.com",
+    "cpf": "33344455568",
+    "nome": "Lorenzo Souza",
+    "telefone": "42999112235",
+    "endereco": "Rua do Rosário, 350",
+    "senha": "user33"
+  },
+  {
+    "email": "usuario34@empresa.com",
+    "cpf": "44455566679",
+    "nome": "Cecília Mendes",
+    "telefone": "42987445568",
+    "endereco": "Rua Doutor João Cândido, 460",
+    "senha": "user34"
+  },
+  {
+    "email": "usuario35@empresa.com",
+    "cpf": "55566677790",
+    "nome": "Gabriel Lima",
+    "telefone": "42991556679",
+    "endereco": "Rua Florestópolis, 570",
+    "senha": "user35"
+  },
+  {
+    "email": "usuario36@empresa.com",
+    "cpf": "66677788801",
+    "nome": "Ana Clara Alves",
+    "telefone": "42988667790",
+    "endereco": "Avenida Monteiro Lobato, 680",
+    "senha": "user36"
+  },
+  {
+    "email": "usuario37@empresa.com",
+    "cpf": "77788899902",
+    "nome": "Miguel Costa",
+    "telefone": "42999778801",
+    "endereco": "Rua Dr. Colares, 790",
+    "senha": "user37"
+  },
+  {
+    "email": "usuario38@empresa.com",
+    "cpf": "88899900013",
+    "nome": "Mariana Fernandes",
+    "telefone": "42987889902",
+    "endereco": "Rua Balduíno Taques, 800",
+    "senha": "user38"
+  },
+  {
+    "email": "usuario39@empresa.com",
+    "cpf": "99900011124",
+    "nome": "Davi Barbosa",
+    "telefone": "42991990013",
+    "endereco": "Rua Santos Dumont, 910",
+    "senha": "user39"
+  },
+  {
+    "email": "usuario40@empresa.com",
+    "cpf": "00011122235",
+    "nome": "Lívia Rocha",
+    "telefone": "42988001124",
+    "endereco": "Rua Benjamim Constant, 1020",
+    "senha": "user40"
+  },
+  {
+    "email": "usuario41@empresa.com",
+    "cpf": "11122233347",
+    "nome": "Théo Oliveira",
+    "telefone": "42991234570",
+    "endereco": "Rua XV de Novembro, 1130",
+    "senha": "user41"
+  },
+  {
+    "email": "usuario42@empresa.com",
+    "cpf": "22233344458",
+    "nome": "Lorena Campos",
+    "telefone": "42988765435",
+    "endereco": "Rua Comendador Miró, 1240",
+    "senha": "user42"
+  },
+  {
+    "email": "usuario43@empresa.com",
+    "cpf": "33344455569",
+    "nome": "Heitor Dias",
+    "telefone": "42999112236",
+    "endereco": "Rua Augusto Ribas, 1350",
+    "senha": "user43"
+  },
+  {
+    "email": "usuario44@empresa.com",
+    "cpf": "44455566680",
+    "nome": "Stella Almeida",
+    "telefone": "42987445569",
+    "endereco": "Rua Doutor Paula Xavier, 1460",
+    "senha": "user44"
+  },
+  {
+    "email": "usuario45@empresa.com",
+    "cpf": "55566677791",
+    "nome": "Bernardo Martins",
+    "telefone": "42991556680",
+    "endereco": "Rua Francisco Ribas, 1570",
+    "senha": "user45"
+  },
+  {
+    "email": "usuario46@empresa.com",
+    "cpf": "66677788802",
+    "nome": "Clara Silveira",
+    "telefone": "42988667791",
+    "endereco": "Rua do Rosário, 1680",
+    "senha": "user46"
+  },
+  {
+    "email": "usuario47@empresa.com",
+    "cpf": "77788899903",
+    "nome": "Nicolas Lima",
+    "telefone": "42999778802",
+    "endereco": "Rua Coronel Dulcídio, 1790",
+    "senha": "user47"
+  },
+  {
+    "email": "usuario48@empresa.com",
+    "cpf": "88899900014",
+    "nome": "Heloísa Mendes",
+    "telefone": "42987889903",
+    "endereco": "Rua Bonifácio Vilela, 1800",
+    "senha": "user48"
+  },
+  {
+    "email": "usuario49@empresa.com",
+    "cpf": "99900011125",
+    "nome": "Joaquim Costa",
+    "telefone": "42991990014",
+    "endereco": "Rua General Carneiro, 1910",
+    "senha": "user49"
+  },
+  {
+    "email": "usuario50@empresa.com",
+    "cpf": "00011122236",
+    "nome": "Sofia Pires",
+    "telefone": "42988001125",
+    "endereco": "Rua Visconde de Mauá, 2020",
+    "senha": "user50"
+  },
+  {
+    "email": "usuario51@empresa.com",
+    "cpf": "11122233348",
+    "nome": "Benício Gomes",
+    "telefone": "42991234571",
+    "endereco": "Rua Ermelino de Leão, 2130",
+    "senha": "user51"
+  },
+  {
+    "email": "usuario52@empresa.com",
+    "cpf": "22233344459",
+    "nome": "Aurora Silva",
+    "telefone": "42988765436",
+    "endereco": "Rua Santana, 2240",
+    "senha": "user52"
+  },
+  {
+    "email": "usuario53@empresa.com",
+    "cpf": "33344455570",
+    "nome": "João Guilherme",
+    "telefone": "42999112237",
+    "endereco": "Rua Barão do Cerro Azul, 2350",
+    "senha": "user53"
+  },
+  {
+    "email": "usuario54@empresa.com",
+    "cpf": "44455566681",
+    "nome": "Eloá Rodrigues",
+    "telefone": "42987445570",
+    "endereco": "Rua Dr. Colares, 2460",
+    "senha": "user54"
+  },
+  {
+    "email": "usuario55@empresa.com",
+    "cpf": "55566677792",
+    "nome": "Miguel Ângelo",
+    "telefone": "42991556681",
+    "endereco": "Rua Balduíno Taques, 2570",
+    "senha": "user55"
+  },
+  {
+    "email": "usuario56@empresa.com",
+    "cpf": "66677788803",
+    "nome": "Ayla Pereira",
+    "telefone": "42988667792",
+    "endereco": "Rua Santos Dumont, 2680",
+    "senha": "user56"
+  },
+  {
+    "email": "usuario57@empresa.com",
+    "cpf": "77788899904",
+    "nome": "Antônio Rocha",
+    "telefone": "42999778803",
+    "endereco": "Rua Benjamim Constant, 2790",
+    "senha": "user57"
+  },
+  {
+    "email": "usuario58@empresa.com",
+    "cpf": "88899900015",
+    "nome": "Luana Gomes",
+    "telefone": "42987889904",
+    "endereco": "Rua XV de Novembro, 2800",
+    "senha": "user58"
+  },
+  {
+    "email": "usuario59@empresa.com",
+    "cpf": "99900011126",
+    "nome": "João Miguel",
+    "telefone": "42991990015",
+    "endereco": "Rua Comendador Miró, 2910",
+    "senha": "user59"
+  },
+  {
+    "email": "usuario60@empresa.com",
+    "cpf": "00011122237",
+    "nome": "Isabelly Santos",
+    "telefone": "42988001126",
+    "endereco": "Rua Augusto Ribas, 3020",
+    "senha": "user60"
+  },
+  {
+    "email": "usuario61@empresa.com",
+    "cpf": "11122233349",
+    "nome": "Rafaela Rodrigues",
+    "telefone": "42991234572",
+    "endereco": "Rua Doutor Paula Xavier, 3130",
+    "senha": "user61"
+  },
+  {
+    "email": "usuario62@empresa.com",
+    "cpf": "22233344460",
+    "nome": "Arthur Silva",
+    "telefone": "42988765437",
+    "endereco": "Rua Francisco Ribas, 3240",
+    "senha": "user62"
+  },
+  {
+    "email": "usuario63@empresa.com",
+    "cpf": "33344455571",
+    "nome": "Maria Alice",
+    "telefone": "42999112238",
+    "endereco": "Rua do Rosário, 3350",
+    "senha": "user63"
+  },
+  {
+    "email": "usuario64@empresa.com",
+    "cpf": "44455566682",
+    "nome": "João Lucas",
+    "telefone": "42987445571",
+    "endereco": "Rua Coronel Dulcídio, 3460",
+    "senha": "user64"
+  },
+  {
+    "email": "usuario65@empresa.com",
+    "cpf": "55566677793",
+    "nome": "Laura Antunes",
+    "telefone": "42991556682",
+    "endereco": "Rua Bonifácio Vilela, 3570",
+    "senha": "user65"
+  },
+  {
+    "email": "usuario66@empresa.com",
+    "cpf": "66677788804",
+    "nome": "Lucas Gabriel",
+    "telefone": "42988667793",
+    "endereco": "Rua General Carneiro, 3680",
+    "senha": "user66"
+  },
+  {
+    "email": "usuario67@empresa.com",
+    "cpf": "77788899905",
+    "nome": "Helena Dias",
+    "telefone": "42999778804",
+    "endereco": "Rua Visconde de Mauá, 3790",
+    "senha": "user67"
+  },
+  {
+    "email": "usuario68@empresa.com",
+    "cpf": "88899900016",
+    "nome": "Pedro Henrique",
+    "telefone": "42987889905",
+    "endereco": "Rua Ermelino de Leão, 3800",
+    "senha": "user68"
+  },
+  {
+    "email": "usuario69@empresa.com",
+    "cpf": "99900011127",
+    "nome": "Maria Luiza",
+    "telefone": "42991990016",
+    "endereco": "Rua Santana, 3910",
+    "senha": "user69"
+  },
+  {
+    "email": "usuario70@empresa.com",
+    "cpf": "00011122238",
+    "nome": "Guilherme Eduardo",
+    "telefone": "42988001127",
+    "endereco": "Rua Barão do Cerro Azul, 4020",
+    "senha": "user70"
+  },
+  {
+    "email": "usuario71@empresa.com",
+    "cpf": "11122233350",
+    "nome": "Ana Júlia",
+    "telefone": "42991234573",
+    "endereco": "Rua Dr. Colares, 4130",
+    "senha": "user71"
+  },
+  {
+    "email": "usuario72@empresa.com",
+    "cpf": "22233344461",
+    "nome": "Enzo Gabriel",
+    "telefone": "42988765438",
+    "endereco": "Rua Balduíno Taques, 4240",
+    "senha": "user72"
+  },
+  {
+    "email": "usuario73@empresa.com",
+    "cpf": "33344455572",
+    "nome": "Liz Mendes",
+    "telefone": "42999112239",
+    "endereco": "Rua Santos Dumont, 4350",
+    "senha": "user73"
+  },
+  {
+    "email": "usuario74@empresa.com",
+    "cpf": "44455566683",
+    "nome": "Bryan Rocha",
+    "telefone": "42987445572",
+    "endereco": "Rua Benjamim Constant, 4460",
+    "senha": "user74"
+  },
+  {
+    "email": "usuario75@empresa.com",
+    "cpf": "55566677794",
+    "nome": "Emanuelly Costa",
+    "telefone": "42991556683",
+    "endereco": "Rua XV de Novembro, 4570",
+    "senha": "user75"
+  },
+  {
+    "email": "usuario76@empresa.com",
+    "cpf": "66677788805",
+    "nome": "Davi Lucas",
+    "telefone": "42988667794",
+    "endereco": "Rua Comendador Miró, 4680",
+    "senha": "user76"
+  },
+  {
+    "email": "usuario77@empresa.com",
+    "cpf": "77788899906",
+    "nome": "Maria Cecília",
+    "telefone": "42999778805",
+    "endereco": "Rua Augusto Ribas, 4790",
+    "senha": "user77"
+  },
+  {
+    "email": "usuario78@empresa.com",
+    "cpf": "88899900017",
+    "nome": "Samuel Dutra",
+    "telefone": "42987889906",
+    "endereco": "Rua Doutor Paula Xavier, 4800",
+    "senha": "user78"
+  },
+  {
+    "email": "usuario79@empresa.com",
+    "cpf": "99900011128",
+    "nome": "Esther Andrade",
+    "telefone": "42991990017",
+    "endereco": "Rua Francisco Ribas, 4910",
+    "senha": "user79"
+  },
+  {
+    "email": "usuario80@empresa.com",
+    "cpf": "00011122239",
+    "nome": "João Vitor",
+    "telefone": "42988001128",
+    "endereco": "Rua do Rosário, 5020",
+    "senha": "user80"
+  },
+  {
+    "email": "usuario81@empresa.com",
+    "cpf": "11122233351",
+    "nome": "Manuela Gonçalves",
+    "telefone": "42991234574",
+    "endereco": "Rua Coronel Dulcídio, 5130",
+    "senha": "user81"
+  },
+  {
+    "email": "usuario82@empresa.com",
+    "cpf": "22233344462",
+    "nome": "Benício Oliveira",
+    "telefone": "42988765439",
+    "endereco": "Rua Bonifácio Vilela, 5240",
+    "senha": "user82"
+  },
+  {
+    "email": "usuario83@empresa.com",
+    "cpf": "33344455573",
+    "nome": "Maria Clara",
+    "telefone": "42999112240",
+    "endereco": "Rua General Carneiro, 5350",
+    "senha": "user83"
+  },
+  {
+    "email": "usuario84@empresa.com",
+    "cpf": "44455566684",
+    "nome": "Noah Santos",
+    "telefone": "42987445573",
+    "endereco": "Rua Visconde de Mauá, 5460",
+    "senha": "user84"
+  },
+  {
+    "email": "usuario85@empresa.com",
+    "cpf": "55566677795",
+    "nome": "Alice Lima",
+    "telefone": "42991556684",
+    "endereco": "Rua Ermelino de Leão, 5570",
+    "senha": "user85"
+  },
+  {
+    "email": "usuario86@empresa.com",
+    "cpf": "66677788806",
+    "nome": "Davi Lucca",
+    "telefone": "42988667795",
+    "endereco": "Rua Santana, 5680",
+    "senha": "user86"
+  },
+  {
+    "email": "usuario87@empresa.com",
+    "cpf": "77788899907",
+    "nome": "Valentina Gomes",
+    "telefone": "42999778806",
+    "endereco": "Rua Barão do Cerro Azul, 5790",
+    "senha": "user87"
+  },
+  {
+    "email": "usuario88@empresa.com",
+    "cpf": "88899900018",
+    "nome": "Lorenzo Alves",
+    "telefone": "42987889907",
+    "endereco": "Rua Dr. Colares, 5800",
+    "senha": "user88"
+  },
+  {
+    "email": "usuario89@empresa.com",
+    "cpf": "99900011129",
+    "nome": "Maria Júlia",
+    "telefone": "42991990018",
+    "endereco": "Rua Balduíno Taques, 5910",
+    "senha": "user89"
+  },
+  {
+    "email": "usuario90@empresa.com",
+    "cpf": "00011122240",
+    "nome": "Pedro Dutra",
+    "telefone": "42988001129",
+    "endereco": "Rua Santos Dumont, 6020",
+    "senha": "user90"
+  },
+  {
+    "email": "usuario91@empresa.com",
+    "cpf": "11122233352",
+    "nome": "Cecília Mendes",
+    "telefone": "42991234575",
+    "endereco": "Rua Benjamim Constant, 6130",
+    "senha": "user91"
+  },
+  {
+    "email": "usuario92@empresa.com",
+    "cpf": "22233344463",
+    "nome": "Felipe Costa",
+    "telefone": "42988765440",
+    "endereco": "Rua XV de Novembro, 6240",
+    "senha": "user92"
+  },
+  {
+    "email": "usuario93@empresa.com",
+    "cpf": "33344455574",
+    "nome": "Mariana Vieira",
+    "telefone": "42999112241",
+    "endereco": "Rua Comendador Miró, 6350",
+    "senha": "user93"
+  },
+  {
+    "email": "usuario94@empresa.com",
+    "cpf": "44455566685",
+    "nome": "Guilherme Santos",
+    "telefone": "42987445574",
+    "endereco": "Rua Augusto Ribas, 6460",
+    "senha": "user94"
+  },
+  {
+    "email": "usuario95@empresa.com",
+    "cpf": "55566677796",
+    "nome": "Helena Andrade",
+    "telefone": "42991556685",
+    "endereco": "Rua Doutor Paula Xavier, 6570",
+    "senha": "user95"
+  },
+  {
+    "email": "usuario96@empresa.com",
+    "cpf": "66677788807",
+    "nome": "Ricardo Pereira",
+    "telefone": "42988667796",
+    "endereco": "Rua Francisco Ribas, 6680",
+    "senha": "user96"
+  },
+  {
+    "email": "usuario97@empresa.com",
+    "cpf": "77788899908",
+    "nome": "Laura Silveira",
+    "telefone": "42999778807",
+    "endereco": "Rua do Rosário, 6790",
+    "senha": "user97"
+  },
+  {
+    "email": "usuario98@empresa.com",
+    "cpf": "88899900019",
+    "nome": "Eduardo Oliveira",
+    "telefone": "42987889908",
+    "endereco": "Rua Coronel Dulcídio, 6800",
+    "senha": "user98"
+  },
+  {
+    "email": "usuario99@empresa.com",
+    "cpf": "99900011130",
+    "nome": "Maria Fernanda",
+    "telefone": "42991990019",
+    "endereco": "Rua Bonifácio Vilela, 6910",
+    "senha": "user99"
+  },
+  {
+    "email": "usuario100@empresa.com",
+    "cpf": "00011122241",
+    "nome": "Vinícius Dias",
+    "telefone": "42988001130",
+    "endereco": "Rua General Carneiro, 7020",
+    "senha": "user100"
+  },
+  {
+    "email": "usuario101@empresa.com",
+    "cpf": "11122233353",
+    "nome": "Sofia Oliveira",
+    "telefone": "42991234576",
+    "endereco": "Rua Visconde de Mauá, 7130",
+    "senha": "user101"
+  },
+  {
+    "email": "usuario102@empresa.com",
+    "cpf": "22233344464",
+    "nome": "Gabriel Lima",
+    "telefone": "42988765441",
+    "endereco": "Rua Ermelino de Leão, 7240",
+    "senha": "user102"
+  },
+  {
+    "email": "usuario103@empresa.com",
+    "cpf": "33344455575",
+    "nome": "Manuela Rocha",
+    "telefone": "42999112242",
+    "endereco": "Rua Santana, 7350",
+    "senha": "user103"
+  },
+  {
+    "email": "usuario104@empresa.com",
+    "cpf": "44455566686",
+    "nome": "Arthur Mendes",
+    "telefone": "42987445575",
+    "endereco": "Rua Barão do Cerro Azul, 7460",
+    "senha": "user104"
+  },
+  {
+    "email": "usuario105@empresa.com",
+    "cpf": "55566677797",
+    "nome": "Julia Pires",
+    "telefone": "42991556686",
+    "endereco": "Rua Dr. Colares, 7570",
+    "senha": "user105"
+  },
+  {
+    "email": "usuario106@empresa.com",
+    "cpf": "66677788808",
+    "nome": "João Pedro",
+    "telefone": "42988667797",
+    "endereco": "Rua Balduíno Taques, 7680",
+    "senha": "user106"
+  },
+  {
+    "email": "usuario107@empresa.com",
+    "cpf": "77788899909",
+    "nome": "Alice Pereira",
+    "telefone": "42999778808",
+    "endereco": "Rua Santos Dumont, 7790",
+    "senha": "user107"
+  },
+  {
+    "email": "usuario108@empresa.com",
+    "cpf": "88899900020",
+    "nome": "Enzo Fernandes",
+    "telefone": "42987889909",
+    "endereco": "Rua Benjamim Constant, 7800",
+    "senha": "user108"
+  },
+  {
+    "email": "usuario109@empresa.com",
+    "cpf": "99900011131",
+    "nome": "Lívia Gomes",
+    "telefone": "42991990020",
+    "endereco": "Rua XV de Novembro, 7910",
+    "senha": "user109"
+  },
+  {
+    "email": "usuario110@empresa.com",
+    "cpf": "00011122242",
+    "nome": "Bernardo Costa",
+    "telefone": "42988001131",
+    "endereco": "Rua Comendador Miró, 8020",
+    "senha": "user110"
+  },
+  {
+    "email": "usuario111@empresa.com",
+    "cpf": "11122233354",
+    "nome": "Maria Eduarda",
+    "telefone": "42991234577",
+    "endereco": "Rua Augusto Ribas, 8130",
+    "senha": "user111"
+  },
+  {
+    "email": "usuario112@empresa.com",
+    "cpf": "22233344465",
+    "nome": "Pedro Miguel",
+    "telefone": "42988765442",
+    "endereco": "Rua Doutor Paula Xavier, 8240",
+    "senha": "user112"
+  },
+  {
+    "email": "usuario113@empresa.com",
+    "cpf": "33344455576",
+    "nome": "Valentina Dias",
+    "telefone": "42999112243",
+    "endereco": "Rua Francisco Ribas, 8350",
+    "senha": "user113"
+  },
+  {
+    "email": "usuario114@empresa.com",
+    "cpf": "44455566687",
+    "nome": "Joaquim Oliveira",
+    "telefone": "42987445576",
+    "endereco": "Rua do Rosário, 8460",
+    "senha": "user114"
+  },
+  {
+    "email": "usuario115@empresa.com",
+    "cpf": "55566677798",
+    "nome": "Heloísa Santos",
+    "telefone": "42991556687",
+    "endereco": "Rua Coronel Dulcídio, 8570",
+    "senha": "user115"
+  },
+  {
+    "email": "usuario116@empresa.com",
+    "cpf": "66677788809",
+    "nome": "Miguel Ângelo",
+    "telefone": "42988667798",
+    "endereco": "Rua Bonifácio Vilela, 8680",
+    "senha": "user116"
+  },
+  {
+    "email": "usuario117@empresa.com",
+    "cpf": "77788899910",
+    "nome": "Isadora Martins",
+    "telefone": "42999778809",
+    "endereco": "Rua General Carneiro, 8790",
+    "senha": "user117"
+  },
+  {
+    "email": "usuario118@empresa.com",
+    "cpf": "88899900021",
+    "nome": "Samuel Rocha",
+    "telefone": "42987889910",
+    "endereco": "Rua Visconde de Mauá, 8800",
+    "senha": "user118"
+  },
+  {
+    "email": "usuario119@empresa.com",
+    "cpf": "99900011132",
+    "nome": "Beatriz Faria",
+    "telefone": "42991990021",
+    "endereco": "Rua Ermelino de Leão, 8910",
+    "senha": "user119"
+  },
+  {
+    "email": "usuario120@empresa.com",
+    "cpf": "00011122243",
+    "nome": "Davi Lucca",
+    "telefone": "42988001132",
+    "endereco": "Rua Santana, 9020",
+    "senha": "user120"
+  }
+]
